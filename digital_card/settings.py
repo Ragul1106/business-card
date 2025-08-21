@@ -25,8 +25,10 @@ SECRET_KEY = 'django-insecure-l#62qgp=lk_-meu=kj@^)#5f3-gtzw11w)=60csmm0f#@q$=a*
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
+# settings.py
+
 ALLOWED_HOSTS = [
-    'https://business-card-5cc5.onrender.com/',  
+    "business-card-5cc5.onrender.com",
     "localhost",
     "127.0.0.1"
 ]
